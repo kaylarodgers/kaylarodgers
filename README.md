@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kaylarodgers
 - 👀 I’m interested in web design, web development, and video games
-- 🌱 I’m currently learning how to craftfully create responsive web content with a client focus through the GIT bachelor's degree program at ASU
+- 🌱 I recently completed the GIT bachelor's program at ASU and am currently learning how to craftfully create responsive web content with a client focus through an internship with Kashmir World Foundation
+- 🌱 I'm seeking opportunities in the front-end web design and development field
 - 💞️ I’m looking to collaborate on learning! I would love to learn more languages to expand my skills.
 - 📫 You can reach me at kayla.rodgers33@gmail.com! 
 
